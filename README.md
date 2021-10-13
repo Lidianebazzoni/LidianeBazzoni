@@ -1,6 +1,6 @@
 ## Olá sou Lidiane Bazzoni, 
 * Analista de dados (especialista em análise criminal)
-* Estundado desenvolvimento Back end (Python) 
+* Estudando desenvolvimento Back end (Python) 
 * Front end (HTML, CSS e JavaScript)
 <div align="center">
   <a href="https://github.com/lidianebazzoni">
