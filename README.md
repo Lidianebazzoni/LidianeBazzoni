@@ -1,7 +1,12 @@
-## Olá sou Lidiane Bazzoni, 
-* Analista de dados (especialista em análise criminal)
-* Estudando desenvolvimento Back end (Python) 
-* Front end (HTML, CSS e JavaScript)
+## Essa sou eu, Lidiane Bazzoni, 
+
+* 🎯 OBJETIVO: migrar para a área de Tecnologia
+* ❤️ AMOR: Python
+* 🌍 FELICIDADE: viajar com a família
+* 😍 ORGULHO: da pessoa que me tornei
+* 🎮 PRAZER: jogar Minecraft com o filhão 
+* 🌱 SONHO: com um mundo melhor
+
 <div align="center">
   <a href="https://github.com/lidianebazzoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidianebazzoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
