@@ -1,11 +1,13 @@
-## Essa sou eu, Lidiane Bazzoni, 
+## It's me Lidiane Bazzoni: 
 
 * 🎯 OBJETIVO: migrar para a área de Tecnologia
-* ❤️ AMOR: Python
-* 🌍 FELICIDADE: viajar com a família
-* 😍 ORGULHO: da pessoa que me tornei
+* ❤️ AMOR: in love with Python
+* ✈️ FELICIDADE: viajar com a família
+* 🥰 ORGULHO: da pessoa que me tornei
 * 🎮 PRAZER: jogar Minecraft com o filhão 
-* 🌱 SONHO: com um mundo melhor
+* 🌱 SONHO: um mundo melhor
+* ❌ LUTA: violência contra a mulher
+
 
 <div align="center">
   <a href="https://github.com/lidianebazzoni">
